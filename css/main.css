@@ -1,0 +1,45 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+.logo {
+    width: 100px;
+    height: 30px;
+    padding: 0px;
+    margin: 0px;
+    object-fit: contain;
+    box-sizing: auto;
+}
+
+.bigpic {
+    width: 100%;
+}
+
+.navbar {
+    position: fixed;
+}
+
+.sidepic {
+    float: left;
+    width: 50%;
+    height: auto;
+    margin-right: 16px;
+}
+
+.wordsnexttopic {
+    overflow: hidden;
+    text-align: justify;
+}
+
+.listlinks {
+    margin-left: 16px;
+    overflow: hidden;
+}
